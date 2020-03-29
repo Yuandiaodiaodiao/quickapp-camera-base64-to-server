@@ -19,5 +19,5 @@ server.py里面改监听端口
 
 
 ## python依赖
-pip install tornado
-pip install base64
+pip install tornado  
+pip install base64  
